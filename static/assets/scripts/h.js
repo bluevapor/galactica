@@ -164,13 +164,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
+  "Linden sucks",
+  "cool proxy",
+  "Made by the diabeto",
+  "Check out jdrf :)",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
+  "Follow me on youtube @bluevapor",
   "Subscribe to my Youtube (@xbubbo)",
   "Check out the settings page",
   "Check out our Patreon (https://www.patreon.com/gointerstellar)",
